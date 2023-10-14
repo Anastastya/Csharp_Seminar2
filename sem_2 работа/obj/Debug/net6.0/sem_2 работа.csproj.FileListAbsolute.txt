@@ -1,0 +1,15 @@
+C:\Users\Анастасия\Desktop\C sharp\ДЗ к семинарам\СЕминар 2 ДЗ\sem_2\sem_2 работа\bin\Debug\net6.0\sem_2 работа.exe
+C:\Users\Анастасия\Desktop\C sharp\ДЗ к семинарам\СЕминар 2 ДЗ\sem_2\sem_2 работа\bin\Debug\net6.0\sem_2 работа.deps.json
+C:\Users\Анастасия\Desktop\C sharp\ДЗ к семинарам\СЕминар 2 ДЗ\sem_2\sem_2 работа\bin\Debug\net6.0\sem_2 работа.runtimeconfig.json
+C:\Users\Анастасия\Desktop\C sharp\ДЗ к семинарам\СЕминар 2 ДЗ\sem_2\sem_2 работа\bin\Debug\net6.0\sem_2 работа.dll
+C:\Users\Анастасия\Desktop\C sharp\ДЗ к семинарам\СЕминар 2 ДЗ\sem_2\sem_2 работа\bin\Debug\net6.0\sem_2 работа.pdb
+C:\Users\Анастасия\Desktop\C sharp\ДЗ к семинарам\СЕминар 2 ДЗ\sem_2\sem_2 работа\obj\Debug\net6.0\sem_2 работа.csproj.AssemblyReference.cache
+C:\Users\Анастасия\Desktop\C sharp\ДЗ к семинарам\СЕминар 2 ДЗ\sem_2\sem_2 работа\obj\Debug\net6.0\sem_2 работа.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Анастасия\Desktop\C sharp\ДЗ к семинарам\СЕминар 2 ДЗ\sem_2\sem_2 работа\obj\Debug\net6.0\sem_2 работа.AssemblyInfoInputs.cache
+C:\Users\Анастасия\Desktop\C sharp\ДЗ к семинарам\СЕминар 2 ДЗ\sem_2\sem_2 работа\obj\Debug\net6.0\sem_2 работа.AssemblyInfo.cs
+C:\Users\Анастасия\Desktop\C sharp\ДЗ к семинарам\СЕминар 2 ДЗ\sem_2\sem_2 работа\obj\Debug\net6.0\sem_2 работа.csproj.CoreCompileInputs.cache
+C:\Users\Анастасия\Desktop\C sharp\ДЗ к семинарам\СЕминар 2 ДЗ\sem_2\sem_2 работа\obj\Debug\net6.0\sem_2 работа.dll
+C:\Users\Анастасия\Desktop\C sharp\ДЗ к семинарам\СЕминар 2 ДЗ\sem_2\sem_2 работа\obj\Debug\net6.0\refint\sem_2 работа.dll
+C:\Users\Анастасия\Desktop\C sharp\ДЗ к семинарам\СЕминар 2 ДЗ\sem_2\sem_2 работа\obj\Debug\net6.0\sem_2 работа.pdb
+C:\Users\Анастасия\Desktop\C sharp\ДЗ к семинарам\СЕминар 2 ДЗ\sem_2\sem_2 работа\obj\Debug\net6.0\sem_2 работа.genruntimeconfig.cache
+C:\Users\Анастасия\Desktop\C sharp\ДЗ к семинарам\СЕминар 2 ДЗ\sem_2\sem_2 работа\obj\Debug\net6.0\ref\sem_2 работа.dll

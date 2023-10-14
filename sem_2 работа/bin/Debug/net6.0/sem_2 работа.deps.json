@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "sem_2/1.0.0": {
+      "sem_2 работа/1.0.0": {
         "runtime": {
-          "sem_2.dll": {}
+          "sem_2 работа.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "sem_2/1.0.0": {
+    "sem_2 работа/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
